@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1355290082 source:c:\users\zayim\desktop\projekat 2\projekat 2\main.cpp
+	"Stablo.h"
+	<iostream>
+	<cstdlib>
+
+1355290082 
+
+1355290313 c:\users\zayim\desktop\projekat 2\projekat 2\stablo.h
+
+1355289832 source:c:\users\zayim\desktop\projekat 2\projekat 2\stablo.cpp
+	"Stablo.h"
+	<iostream>
+
+1355289832 
+
+1355290082 source:c:\users\zayim\desktop\projekat 2 - nadin zajimovic - codeblocks\izvorni kod\main.cpp
+	"Stablo.h"
+	<iostream>
+	<cstdlib>
+
+1355293112 c:\users\zayim\desktop\projekat 2 - nadin zajimovic - codeblocks\izvorni kod\stablo.h
+
+1355289832 source:c:\users\zayim\desktop\projekat 2 - nadin zajimovic - codeblocks\izvorni kod\stablo.cpp
+	"Stablo.h"
+	<iostream>
+
+1355289832 source:d:\documents\fakultet\strukture podataka i algoritmi\projekat 2 - nadin zajimovic - codeblocks\izvorni kod\stablo.cpp
+	"Stablo.h"
+	<iostream>
+
+1355293112 d:\documents\fakultet\strukture podataka i algoritmi\projekat 2 - nadin zajimovic - codeblocks\izvorni kod\stablo.h
+
+1358673523 source:d:\documents\fakultet\strukture podataka i algoritmi\projekat 2 - nadin zajimovic - codeblocks\izvorni kod\main.cpp
+	"Stablo.h"
+	<iostream>
+	<cstdlib>
+	"TestCurenja.h"
+
+1358673523 ja.h"
+
+1304501710 d:\documents\fakultet\strukture podataka i algoritmi\projekat 2 - nadin zajimovic - codeblocks\izvorni kod\testcurenja.h
+	<cstdio>
+	<cstdlib>
+	<cstddef>
+	<exception>
+	<new>
+
+1304501710 >
+
+1371810200 source:/home/nzajimovic/Desktop/github/SPiA/Stablo_SPiA/Izvorni kod/Stablo.cpp
+	"Stablo.h"
+	<iostream>
+
+1371810200 /home/nzajimovic/Desktop/github/SPiA/Stablo_SPiA/Izvorni kod/Stablo.h
+
